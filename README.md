@@ -18,5 +18,5 @@ Usage:
     make psql-build
     make elastic-build
     make es-proxy-build
-    make hatpull-build
+    make app-server-build
     make run
